@@ -50,3 +50,10 @@
   .lightText {
     color: #666;
   }
+
+  .errorPage {
+    font-size: 2.5rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+    padding: 20px;
+  }
